@@ -1,0 +1,25 @@
+{
+  "name": "PhoneGap-Image-Resizer",
+  "version": "0.1.2",
+  "description": "resize and save images for phonegap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orpapage/PhoneGap-Image-Resizer.git"
+  },
+  "keywords": [
+    "image base64 data",
+    "photo album",
+    "photos gallery",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT"
+}
